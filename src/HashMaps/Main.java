@@ -21,7 +21,7 @@ public class Main {
 		
 		StringOrganiser sO = new StringOrganiser(splitString); 
 		
-		System.out.println(sO.stringSort(splitString[0]));
+		//System.out.println(sO.stringSort(splitString[0]));
 	}
 
 }
